@@ -12,7 +12,8 @@ function App() {
 					<h2>Practitioners</h2>
 				</header>
 				<div className="main-sections">
-					<Switch>
+					<Profile />
+					{/* <Switch>
 						<Route path="/" exact component={Profile} />
 						<Route
 							path="/profile"
@@ -20,7 +21,7 @@ function App() {
 								return <ProfileDetail {...props} />;
 							}}
 						/>
-					</Switch>
+					</Switch> */}
 				</div>
 			</div>
 		</BrowserRouter>
