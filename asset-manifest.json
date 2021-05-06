@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/ehi-fhir-practitioners/static/css/main.d6b7224b.chunk.css",
-    "main.js": "/ehi-fhir-practitioners/static/js/main.112811f6.chunk.js",
-    "main.js.map": "/ehi-fhir-practitioners/static/js/main.112811f6.chunk.js.map",
+    "main.js": "/ehi-fhir-practitioners/static/js/main.88eeefaa.chunk.js",
+    "main.js.map": "/ehi-fhir-practitioners/static/js/main.88eeefaa.chunk.js.map",
     "runtime-main.js": "/ehi-fhir-practitioners/static/js/runtime-main.20d7fa4d.js",
     "runtime-main.js.map": "/ehi-fhir-practitioners/static/js/runtime-main.20d7fa4d.js.map",
-    "static/js/2.090ccaeb.chunk.js": "/ehi-fhir-practitioners/static/js/2.090ccaeb.chunk.js",
-    "static/js/2.090ccaeb.chunk.js.map": "/ehi-fhir-practitioners/static/js/2.090ccaeb.chunk.js.map",
+    "static/js/2.21bd66a3.chunk.js": "/ehi-fhir-practitioners/static/js/2.21bd66a3.chunk.js",
+    "static/js/2.21bd66a3.chunk.js.map": "/ehi-fhir-practitioners/static/js/2.21bd66a3.chunk.js.map",
     "index.html": "/ehi-fhir-practitioners/index.html",
     "static/css/main.d6b7224b.chunk.css.map": "/ehi-fhir-practitioners/static/css/main.d6b7224b.chunk.css.map",
-    "static/js/2.090ccaeb.chunk.js.LICENSE.txt": "/ehi-fhir-practitioners/static/js/2.090ccaeb.chunk.js.LICENSE.txt"
+    "static/js/2.21bd66a3.chunk.js.LICENSE.txt": "/ehi-fhir-practitioners/static/js/2.21bd66a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.20d7fa4d.js",
-    "static/js/2.090ccaeb.chunk.js",
+    "static/js/2.21bd66a3.chunk.js",
     "static/css/main.d6b7224b.chunk.css",
-    "static/js/main.112811f6.chunk.js"
+    "static/js/main.88eeefaa.chunk.js"
   ]
 }
