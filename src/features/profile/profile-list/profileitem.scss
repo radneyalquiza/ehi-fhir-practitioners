@@ -1,0 +1,42 @@
+.profile-item {
+	display: flex;
+	align-items: center;
+	border: 3px solid #7fc1f5;
+	padding: 0.75rem 1rem;
+	border-radius: 0.5rem;
+	min-width: 350px;
+	justify-content: center;
+	margin: 0.5rem;
+	background-color: #b5d9fb;
+	cursor: pointer;
+}
+
+.profile-picture {
+	width: 20%;
+	margin-right: 0.75rem;
+	padding: 0.5rem;
+	border-radius: 50%;
+	background-color: #7683d6;
+	color: white;
+	height: 3rem;
+	width: 3rem;
+	font-size: 2rem;
+	display: flex;
+	justify-content: center;
+}
+
+.profile-info {
+	width: 80%;
+	text-align: left;
+	display: flex;
+	flex-direction: column;
+
+	.profile-address {
+		font-size: 0.75rem;
+
+		.city, .postal {
+			margin-left: 0.2rem;
+		}
+
+	}
+}
